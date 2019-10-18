@@ -25,7 +25,7 @@ const Welcome = ({ setMenuDisplay }) => {
       <div className="welcome__icon__container">
         <img className="welcome__icon" src={brain} alt="brain" />
         <p className="welcome__text">
-          Learn about how our emotions work and what happens in the brain when we are reminded of a traumatic event.
+          Learn about how our emotions work and what happens in the brain when we are reminded of a traumatic event, and learn new ways of helping yourself to feel better.
         </p>
       </div>
       <div className="welcome__icon__container">
@@ -38,7 +38,7 @@ const Welcome = ({ setMenuDisplay }) => {
       <div className="welcome__icon__container">
         <img className="welcome__icon" src={flower} alt="flower" />
         <p className="welcome__text">
-          My Appointment section will help you to get prepared.
+          The My Appointment section includes tips and advice to help before, during and after your cervical screening.
         </p>
       </div>
       <div className="welcome__icon__container">
