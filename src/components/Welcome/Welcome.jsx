@@ -19,32 +19,26 @@ const Welcome = ({ setMenuDisplay }) => {
         Welcome
       </h2>
       <p className="welcome__text__main">
-        Welcome to My Body Back app. We are here to give you some support to
-        handle the difficult experience you might have lived. We truly believe
-        that understanding ourselves is the key to getting better. Here is an
+        Welcome to the My Body Back app. Here is an
         overview of how to navigate through the site.
       </p>
       <div className="welcome__icon__container">
         <img className="welcome__icon" src={brain} alt="brain" />
         <p className="welcome__text">
-          Tired, over thinking, need scientific answers? Helping ourselves to
-          understand how our emotions work and how to get better.
+          Learn about how our emotions work and what happens in the brain when we are reminded of a traumatic event.
         </p>
       </div>
       <div className="welcome__icon__container">
         <img className="welcome__icon" src={wave} alt="wave" />
         <p className="welcome__text">
-          Feeling overwhelmed and are your emotions taking over you like a wave?
-          You are not alone... Get support from professionals and encourage
-          yourself with Notes of Love from all around the world.
+          Are your emotions taking over like a wave?
+          You are not alone... find further sources of support and read Notes of Love from all around the world.
         </p>
       </div>
       <div className="welcome__icon__container">
         <img className="welcome__icon" src={flower} alt="flower" />
         <p className="welcome__text">
-          My Appointment section will help you to get prepared and open
-          yourself, as a flower to professionals who'll guide you through the
-          path of acceptance and feeling better.
+          My Appointment section will help you to get prepared.
         </p>
       </div>
       <div className="welcome__icon__container">
