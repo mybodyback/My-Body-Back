@@ -24,8 +24,8 @@ const FeelingOverwhelmed = ({ setMenuDisplay }) => {
         <section id="feeling-overwhelmed__body">
           <h2 id="feeling-overwhelmed__title">Feeling Overwhelmed?</h2>
           <p>
-          Are your emotions taking over you like a wave?
-          You're not alone. Here you can find support from professionals and encourage
+          Are your emotions taking over like a wave?
+          You're not alone. Here you can find additional sources of support and encourage
           yourself with Notes of Love. 
           </p>
           <section id="feeling-overwhelmed__icon-container">
