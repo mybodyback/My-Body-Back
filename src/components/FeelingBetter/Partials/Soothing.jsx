@@ -44,7 +44,7 @@ const Soothing = () => {
             </p>
             <Link to="/emotions">
               {" "}
-              <p> click here to learn more about our enotions systems.</p>{" "}
+              <p> click here to learn more about our emotions systems.</p>{" "}
             </Link>
           </section>
         </section>
